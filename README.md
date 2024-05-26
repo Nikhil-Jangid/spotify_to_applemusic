@@ -16,7 +16,7 @@ Before using this tool, ensure you have the following:
 
 - Spotify Developer Account: You'll need to create a Spotify Developer account and register your application to obtain the necessary credentials.
 - Python 3: Make sure you have Python 3 installed on your system.
-- spotdl: Install spotdl and download songs from Spotify. You can find installation instructions [here](https://github.com/spotDL/spotify-downloader).
+- spotdl: Install spotdl and download songs from Your Spotify Playlist. You can find installation instructions [here](https://github.com/spotDL/spotify-downloader).
 
 ## Setup
 
@@ -39,7 +39,9 @@ SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 ```
 
-4. Run the script:
+4. Update Path of ```local_files``` and ```song_path``` in playlist.py with the location where the songs are located.
+
+5. Run the script:
 ```
 python playlist.py
 ```
