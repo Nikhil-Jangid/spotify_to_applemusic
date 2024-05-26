@@ -1,4 +1,4 @@
-# Playlist Transfer Tool
+# Spotify To Apple Music
 
 This Python script facilitates the transfer of songs from a Spotify playlist to an Apple Music playlist. It leverages the Spotify and Apple Music APIs to achieve this. Additionally, it utilizes the spotdl tool to download songs from Spotify.
 
